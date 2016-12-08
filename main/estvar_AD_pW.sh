@@ -1,0 +1,1 @@
+R CMD BATCH /home/student/tqian/Adaptive-Enrichment-Designs-with-Delayed-Outcomes/main/AD_simulation_paper/estvar_AD_pW.R /home/student/tqian/Adaptive-Enrichment-Designs-with-Delayed-Outcomes/main/Rout/estvar_AD_pW.Rout.$SGE_TASK_ID
